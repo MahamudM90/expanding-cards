@@ -1,2 +1,2 @@
 # expanding-cards
-This is a Basic Level Website.
+This is a Basic Level Expanding-card Website.
