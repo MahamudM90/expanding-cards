@@ -1,2 +1,2 @@
 # expanding-cards
-This is a Basic Level Web-SiExpanding-card.
+This is a Basic Level Web-SitExpanding-card.
